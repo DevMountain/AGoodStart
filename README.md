@@ -44,3 +44,7 @@ You also have 2 options with each project. You can create a project from scratch
 ``` git add .
 ``` git commit -m “Add log Hello World”
 
+### Completion:
+- Not much should happen. In fact, the iPhone Simulator should be blank. For our pre-course projects, you'll be looking in the console of Xcode to see the results. You should see 'Hello World' printed in the bottom pane of Xcode.
+- Feel free to print anything you want. The point of this project is to make sure you have a working Xcode and that you can get through the Git workflow.
+- You'll share your repo of this project (and all of the others throughout the course) with your mentor
