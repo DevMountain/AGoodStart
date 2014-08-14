@@ -42,4 +42,4 @@ You also have 2 options with each project. You can create a project from scratch
 ``` git commit -m “Add log Hello World”
 
 
-*Note: Feel free to use a GUI application for Git. I love Tower (it is expensive), and a lot of the students have used the free [GitHub app](http://mac.github.com).
+*Note: Feel free to use a GUI application for Git. I love Tower (it is expensive), and a lot of the students have used the free [GitHub app](http://mac.github.com).*
