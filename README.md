@@ -7,6 +7,9 @@ The very first project for iOS pre-course.
 
 *Note: Feel free to use either language (Swift or Objective-C) for the pre-course projects. Base projects will be included for each.*
 
+*Also: The instructions are for using Terminal however you should feel free to use a GUI application for Git. I love Tower (it is expensive), and a lot of the students have used the free [GitHub app](http://mac.github.com).*
+
+
 You also have 2 options with each project. You can create a project from scratch and push it to your GitHub account on your own, or you can fork the repositories we provide and update them with your code.
 
 ### Step 1: Download Xcode
@@ -41,5 +44,3 @@ You also have 2 options with each project. You can create a project from scratch
 ``` git add .
 ``` git commit -m “Add log Hello World”
 
-
-*Note: Feel free to use a GUI application for Git. I love Tower (it is expensive), and a lot of the students have used the free [GitHub app](http://mac.github.com).*
