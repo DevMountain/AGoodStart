@@ -31,24 +31,24 @@ You also have 2 options with each project. You can create a project from scratch
 - Navigate to the project folder via terminal (here is a [tutorial](http://computers.tutsplus.com/tutorials/navigating-the-terminal-a-gentle-introduction--mac-3855) if you don't know how)
 - Get the https url on the right side of your project window
 - Then add the remote repository and push to it:
-  - ``` git remote add origin git@example.com:my_project.git [this is your project url]
-  - ``` git push -u origin master
+  - ``` git remote add origin git@example.com:my_project.git``` [this is your project url]
+  - ``` git push -u origin master```
 
 #### Option 2: Clone this project down to your computer
 - In GitHub click the "Fork" button on the upper right corner of this project
 - Navigate in terminal to where you want to put the project (hopefully a special folder just for 'code')
 - Get the https url on the right side of your project window
 - Then clone down the folder:
-  - ``` git clone git@example.com:my_project.git my_project
-  - ``` cd my_project
+  - ``` git clone git@example.com:my_project.git my_project```
+  - ``` cd my_project```
 
 ### Step 3: Hello World
 - You should have an AppDelegate file to work with (.swift or .m file is where we'll be working)
 - You may wonder where to write code. When the application finishes launching it will start in the AppDelegate and call the "didFinishLaunchingWithOptions" method. You'll put code in there.
 - In the AppDelegate file add a line to print the words "Hello World" to the console.
 - Commit and push your code to GitHub
-  - ``` git add .
-  - ``` git commit -m “Add log Hello World”
+  - ``` git add .```
+  - ``` git commit -m “Add log Hello World”```
 
 ### Completion:
 - Not much should happen. In fact, the iPhone Simulator should be blank. For our pre-course projects, you'll be looking in the console of Xcode to see the results. You should see 'Hello World' printed in the bottom pane of Xcode.
