@@ -13,7 +13,7 @@ The very first project for iOS pre-course.
 You also have 2 options with each project. You can create a project from scratch and push it to your GitHub account on your own, or you can fork the repositories we provide and update them with your code.
 
 ### Resources:
-Before you start hear, read the "[Setup & Git](https://devmounta.in/files/iOS/ios-precourse__01GitSetup.pdf)" intro.
+Before you start here, read the "[Setup & Git](https://devmounta.in/files/iOS/ios-precourse__01GitSetup.pdf)" intro.
 
 ### Step 1: Download Xcode
 - Gotta have Xcode. If you don't, go download it from the App Store now. It doesn't matter if you're using 5 or 6, but we'll use 6 in class. 
