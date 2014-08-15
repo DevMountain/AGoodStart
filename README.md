@@ -7,7 +7,7 @@ The very first project for iOS pre-course.
 
 *Note: Feel free to use either language (Swift or Objective-C) for the pre-course projects. Base projects will be included for each.*
 
-*Also: The instructions are for using Terminal however you should feel free to use a GUI application for Git. I love [Tower](http://www.git-tower.com/) ($59). Others use [SourceTree](http://www.sourcetreeapp.com/) (free) or [GitHub app](http://mac.github.com) (free).*
+*Also: The instructions are for using Terminal however you should feel free to use a GUI application for Git. I love and use [Tower](http://www.git-tower.com/) it's a paid app ($59) with a trial. If you try and really like Tower, we’ll cover the cost of it. Let us know at admin@devmounta.in and we’ll get you a license. Others use [SourceTree](http://www.sourcetreeapp.com/) (free) or [GitHub app](http://mac.github.com) (free).*
 
 
 You also have 2 options with each project. You can create a project from scratch and push it to your GitHub account on your own, or you can fork the repositories we provide and update them with your code.
